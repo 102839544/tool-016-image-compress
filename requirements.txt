@@ -1,6 +1,4 @@
 # 依赖列表
 # 安装: pip install -r requirements.txt
 
-Pillow>=10.0.0
-pytesseract>=0.3.10
-qrcode>=7.4
+Pillow
